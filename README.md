@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Anand!;Full-Stack+Developer;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1744990252~exp=1744993852~hmac=992ca0081f51a2fe98e6d79edfe6b4ae106035425c8f013afbf1c5a5e3d74340&w=1380" />
-</p>
-
-
-
 <h3 align="center">
   <strong>🚀 Java Full Stack <span style="color:#00bcd4;"></span> | Focused on Dev, Design & Systems ⚙️</strong>
 </h3>
